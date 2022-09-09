@@ -8,4 +8,12 @@ You'll need a L1 ETH-Goerli node. No need to host it yourself, but if you don't,
 
 
 ## Specs
-Waiting for a 24 hours benchmark...
+Average on a period of 24 hours
+
+| Spec | Arbitrum Goerli Nitro 
+|--|--|
+| Storage (Sep 9, 2022) | 451 MB 
+| CPU Usage | 0.11% | 
+| Memory Usage | 714.99 MB 
+| Cached Memory Usage | 17.02 MB
+
