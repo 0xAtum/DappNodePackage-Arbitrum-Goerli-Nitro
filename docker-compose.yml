@@ -4,7 +4,7 @@ services:
     build:
       context: build
       args:
-        UPSTREAM_VERSION: v2.0.3-9779dab
+        UPSTREAM_VERSION: v2.0.5-208d9d5
     ports:
       - "8547"
       - "8548"
@@ -14,7 +14,7 @@ services:
     environment:
       ETH_GOERLI_RPC_URL: "http://goerli-geth.dappnode:8545"
       EXTRA_OPTS: "--http.api=net,web3,eth,debug"
-    image: "arbitrum-goerli-nitro.public.dappnode.eth:0.1.1"
+    image: "arbitrum-goerli-nitro.public.dappnode.eth:0.1.2"
     restart: unless-stopped
 volumes:
   data: {}
