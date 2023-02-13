@@ -1,5 +1,7 @@
 # Arbitrum Goerli Nitro Node for DappNode
 
+| ***I'm no longer verifying the package, be sure to use the ones inside releases.json***
+
 This repo allows you to run a Aribtrum Goerli node on [DappNode](https://twitter.com/dappnode). I'll support this repo until DappNode's team decide to support it officially.
 
 ## Installation
