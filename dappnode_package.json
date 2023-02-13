@@ -1,10 +1,10 @@
 {
   "name": "arbitrum-goerli-nitro.public.dappnode.eth",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Arbitrum Goerli Testnet Nitro Node",
   "type": "service",
   "author": "0xAtum",
-  "upstreamVersion": "v2.0.9-51f9452",
+  "upstreamVersion": "v2.0.10-73224e3",
   "upstreamRepo": "OffchainLabs/nitro",
   "upstreamArg": "UPSTREAM_VERSION",
   "categories": ["Developer tools", "Blockchain"],
